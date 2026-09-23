@@ -1,0 +1,6 @@
+{
+  "name": "Political Run",
+  "description": "A funny fictional 3D endless runner cartoon parody game where a cartoon Modi-inspired runner dashes forward while a cartoon Rahul-inspired character playfully chases with a harmless prop.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
